@@ -1,0 +1,2 @@
+# softwareConfiPrac
+practical3
